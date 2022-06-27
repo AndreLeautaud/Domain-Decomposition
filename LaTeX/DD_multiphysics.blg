@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: DD_multiphysics.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+The style file: elsarticle-num.bst
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+Database file #1: refs_multiphysics.bib
+You've used 3 entries,
+            2952 wiz_defined-function locations,
+            691 strings with 5619 characters,
+and the built_in function-call counts, 931 in all, are:
+= -- 93
+> -- 21
+< -- 0
++ -- 9
+- -- 6
+* -- 71
+:= -- 142
+add.period$ -- 3
+call.type$ -- 3
+change.case$ -- 3
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 24
+empty$ -- 100
+format.name$ -- 9
+if$ -- 226
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 3
+newline$ -- 17
+num.names$ -- 3
+pop$ -- 15
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 54
+stack$ -- 0
+substring$ -- 75
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 9
+width$ -- 4
+write$ -- 31

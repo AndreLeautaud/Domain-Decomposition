@@ -1,0 +1,32 @@
+\BOOKMARK [1][-]{section.1}{Error estimation}{}% 1
+\BOOKMARK [1][-]{section.2}{Iterative solvers}{}% 2
+\BOOKMARK [1][-]{section.3}{Overlapping Schwarz iterative solvers}{}% 3
+\BOOKMARK [1][-]{section.4}{Additive Schwarz}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Forward problem}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{Adjoint equations}{section.4}% 6
+\BOOKMARK [2][-]{subsection.4.3}{Discretization error representation}{section.4}% 7
+\BOOKMARK [2][-]{subsection.4.4}{Total error representation}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.5}{Results}{section.4}% 9
+\BOOKMARK [1][-]{section.5}{Restricted Additive Schwarz}{}% 10
+\BOOKMARK [2][-]{subsection.5.1}{Forward problem}{section.5}% 11
+\BOOKMARK [2][-]{subsection.5.2}{Adjoint equations}{section.5}% 12
+\BOOKMARK [2][-]{subsection.5.3}{Discretization error representation}{section.5}% 13
+\BOOKMARK [2][-]{subsection.5.4}{Total error representation}{section.5}% 14
+\BOOKMARK [2][-]{subsection.5.5}{Results}{section.5}% 15
+\BOOKMARK [1][-]{section.6}{Multiplicative Schwarz}{}% 16
+\BOOKMARK [2][-]{subsection.6.1}{Forward problem}{section.6}% 17
+\BOOKMARK [2][-]{subsection.6.2}{Adjoint equations}{section.6}% 18
+\BOOKMARK [2][-]{subsection.6.3}{Discretization error representation}{section.6}% 19
+\BOOKMARK [2][-]{subsection.6.4}{Total error representation}{section.6}% 20
+\BOOKMARK [2][-]{subsection.6.5}{Results}{section.6}% 21
+\BOOKMARK [1][-]{section.7}{One-way coupled systems solved using DD}{}% 22
+\BOOKMARK [2][-]{subsection.7.1}{The basic problem}{section.7}% 23
+\BOOKMARK [2][-]{subsection.7.2}{Adjoint system}{section.7}% 24
+\BOOKMARK [2][-]{subsection.7.3}{Solving component systems using iterative methods}{section.7}% 25
+\BOOKMARK [2][-]{subsection.7.4}{Results}{section.7}% 26
+\BOOKMARK [1][-]{section.8}{Two way coupled algebraic systems}{}% 27
+\BOOKMARK [2][-]{subsection.8.1}{The basic problem}{section.8}% 28
+\BOOKMARK [2][-]{subsection.8.2}{The adjoint problem}{section.8}% 29
+\BOOKMARK [2][-]{subsection.8.3}{Results for coupled algebraic systems}{section.8}% 30
+\BOOKMARK [2][-]{subsection.8.4}{Two-way DD systems}{section.8}% 31
+\BOOKMARK [2][-]{subsection.8.5}{Results}{section.8}% 32
