@@ -1,0 +1,7 @@
+Jupyter Notebooks for Multiplicative and Additive Schwarz
+
+MS.ipynb performs Multiplicative Schwarz
+MS_Utilities.ipynb has helper functions for MS.ipynb
+DD_Utilities.ipynb has helper functions that are used in both
+AS.ipynb performs Additive Schwarz
+AS_Utilities.ipynb has helper functions for AS.ipynb
