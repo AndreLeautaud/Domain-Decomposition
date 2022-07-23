@@ -6,3 +6,5 @@ DD_Utilities.ipynb has helper functions that are used in both
 
 AS.ipynb performs Additive Schwarz
 AS_Utilities.ipynb has helper functions for AS.ipynb
+
+The system and random vector (wpert) are randomly generated using seeds. The seeds can be changed in DD_Utilities.
