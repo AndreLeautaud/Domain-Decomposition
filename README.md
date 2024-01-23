@@ -6,3 +6,4 @@ Matlab is by Simon Tavener.
 Python is by Andre Leautaud.
 
 ![base](Schwarz.jpg)
+-Hermann Schwarz-
